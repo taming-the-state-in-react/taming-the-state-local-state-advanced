@@ -13,7 +13,7 @@
 
 ## Installation
 
-* `git clone git@github.com:rwieruch/taming-the-state-local-state-advanced.git`
+* `git clone git@github.com:taming-the-state-in-react/taming-the-state-local-state-advanced.git`
 * `cd taming-the-state-local-state-advanced/[any folder]`
 * `npm install`
 * `npm start`

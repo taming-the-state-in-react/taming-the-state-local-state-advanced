@@ -1,0 +1,12 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "functional-state/package.json",
+        "higher-order-components/package.json",
+        "lifting-state-archive-in-a-list/package.json",
+        "lifting-state-search-a-list/package.json"
+      ]
+    }
+  }
+}
